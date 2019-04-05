@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\54379\\Desktop\\Pacman Tp1\\Pacman Tp1.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
