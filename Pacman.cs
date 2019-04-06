@@ -31,8 +31,8 @@ public class Pacman {
 	public Pacman(string tipo, Celda posicion){
         this.Posicion = posicion;
         this.EstadoUp = false;
-        posicion.SetOcupado(true);
-		this.Vida = 100;
+        posicion.SetEsPacman(true);
+		this.Vida = 3;
 		this.Puntos = 0;
 	}
 	public void PrintEstados(){
@@ -42,15 +42,15 @@ public class Pacman {
 		Console.WriteLine($"Pacman tiene {this.GetVida()} de vida y un total de {this.GetPuntos()} puntos");
 		Console.WriteLine($"Pacman se encuentra en la celda({this.GetPosicion().GetPosX()},{this.GetPosicion().GetPosY()})");
 	}
-
 	public void Mover(Celda destino){
 		if (destino.GetPosX() == this.Posicion.GetPosX() && destino.GetPosY() == this.Posicion.GetPosY()){
 			Console.WriteLine("Movimiento invalido, no puedes moverte hacia el mismo lugar en el que estas");
 		}
 		else{
+			this.Posicion.SetEsPacman(false);
+			this.SetPosicion(destino);
+
 			if (destino.ValidarMovimiento()){
-				this.Posicion.SetEsPacman(false);
-				this.SetPosicion(destino);
 				if (destino.GetPieza().GetTipo() == "Puntos"){
 					this.Puntos = this.Puntos + 10;
 				}
@@ -58,7 +58,6 @@ public class Pacman {
 					
 				}
 			}
-
 		}
 	}
 }

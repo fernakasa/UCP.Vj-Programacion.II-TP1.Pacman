@@ -5,6 +5,8 @@ public class Celda{
     private bool Ocupado;
     private bool EsPacman;
 	private Piezas Piezas;
+    private Pacman Pacman;
+    private Fantasma Fantasma;
     public void SetPosX(int x){
         this.PosX = x;
     }
