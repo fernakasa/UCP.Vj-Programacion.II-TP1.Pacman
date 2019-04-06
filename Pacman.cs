@@ -9,6 +9,7 @@ public class Pacman {
 	}
 	public void SetPuntos(int puntos){
 		this.Puntos = puntos;
+		int a = 2;
 	}
 	public Celda GetPosicion(){
 		return this.Posicion;
