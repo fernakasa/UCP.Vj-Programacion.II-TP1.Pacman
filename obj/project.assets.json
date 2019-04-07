@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54379\\Desktop\\Pacman Tp1\\Pacman Tp1.csproj",
-      "projectName": "Pacman Tp1",
-      "projectPath": "C:\\Users\\54379\\Desktop\\Pacman Tp1\\Pacman Tp1.csproj",
+      "projectUniqueName": "C:\\CodigoGit\\Programacion II\\UCP.Vj-Programacion.II-TP1.Pacman\\pacman.csproj",
+      "projectName": "pacman",
+      "projectPath": "C:\\CodigoGit\\Programacion II\\UCP.Vj-Programacion.II-TP1.Pacman\\pacman.csproj",
       "packagesPath": "C:\\Users\\54379\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54379\\Desktop\\Pacman Tp1\\obj\\",
+      "outputPath": "C:\\CodigoGit\\Programacion II\\UCP.Vj-Programacion.II-TP1.Pacman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

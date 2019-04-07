@@ -1,0 +1,22 @@
+C:\Users\54379\Desktop\pacman\bin\Debug\netcoreapp2.2\pacman.deps.json
+C:\Users\54379\Desktop\pacman\bin\Debug\netcoreapp2.2\pacman.runtimeconfig.json
+C:\Users\54379\Desktop\pacman\bin\Debug\netcoreapp2.2\pacman.runtimeconfig.dev.json
+c:\Users\54379\Desktop\pacman\bin\Debug\netcoreapp2.2\pacman.dll
+c:\Users\54379\Desktop\pacman\bin\Debug\netcoreapp2.2\pacman.pdb
+c:\Users\54379\Desktop\pacman\obj\Debug\netcoreapp2.2\pacman.csprojAssemblyReference.cache
+c:\Users\54379\Desktop\pacman\obj\Debug\netcoreapp2.2\pacman.csproj.CoreCompileInputs.cache
+c:\Users\54379\Desktop\pacman\obj\Debug\netcoreapp2.2\pacman.AssemblyInfoInputs.cache
+c:\Users\54379\Desktop\pacman\obj\Debug\netcoreapp2.2\pacman.AssemblyInfo.cs
+c:\Users\54379\Desktop\pacman\obj\Debug\netcoreapp2.2\pacman.dll
+c:\Users\54379\Desktop\pacman\obj\Debug\netcoreapp2.2\pacman.pdb
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\bin\Debug\netcoreapp2.2\pacman.deps.json
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\bin\Debug\netcoreapp2.2\pacman.runtimeconfig.json
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\bin\Debug\netcoreapp2.2\pacman.runtimeconfig.dev.json
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\bin\Debug\netcoreapp2.2\pacman.dll
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\bin\Debug\netcoreapp2.2\pacman.pdb
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\obj\Debug\netcoreapp2.2\pacman.csprojAssemblyReference.cache
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\obj\Debug\netcoreapp2.2\pacman.csproj.CoreCompileInputs.cache
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\obj\Debug\netcoreapp2.2\pacman.AssemblyInfoInputs.cache
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\obj\Debug\netcoreapp2.2\pacman.AssemblyInfo.cs
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\obj\Debug\netcoreapp2.2\pacman.dll
+C:\CodigoGit\Programacion II\UCP.Vj-Programacion.II-TP1.Pacman\obj\Debug\netcoreapp2.2\pacman.pdb

@@ -7,30 +7,19 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Pacman Tp1.csproj"
+                "${workspaceFolder}/pacman.csproj"
             ],
-            "problemMatcher": "$tsc"
+            "problemMatcher": "$msCompile"
         },
         {
-            "label": "publish",
+            "label": "build",
             "command": "dotnet",
             "type": "process",
             "args": [
-                "publish",
-                "${workspaceFolder}/Pacman Tp1.csproj"
+                "build",
+                "${workspaceFolder}/pacman.csproj"
             ],
-            "problemMatcher": "$tsc"
-        },
-        {
-            "label": "watch",
-            "command": "dotnet",
-            "type": "process",
-            "args": [
-                "watch",
-                "run",
-                "${workspaceFolder}/Pacman Tp1.csproj"
-            ],
-            "problemMatcher": "$tsc"
+            "problemMatcher": "$msCompile"
         }
     ]
 }
